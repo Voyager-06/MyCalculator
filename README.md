@@ -1,11 +1,15 @@
 # MyCalculator
 6th verse of my Python tkinter Calculator (on Russian)
 
-Calc6v - 6 версия калькулятора на Python tkinter для компьютера.
-PhoneCalc - 6 версия калькулятора для телефона.
-Notebook_beta - 1 версия заметок отдельно от калькулятора, на телефоне пока что работает нестабильно.
+<a href="https://github.com/Voyager-06/MyCalculator/blob/main/Calc6v.py">Calc6v</a> - 6 версия калькулятора на Python tkinter для компьютера.
+
+<a href="https://github.com/Voyager-06/MyCalculator/blob/main/PhoneCalc.py">PhoneCalc</a> - 6 версия калькулятора для телефона.
+
+<a href="https://github.com/Voyager-06/MyCalculator/blob/main/Notebook_beta.py">Notebook_beta</a> - 1 версия заметок отдельно от калькулятора, на телефоне пока что работает нестабильно.
+
+<a href="https://github.com/Voyager-06/MyCalculator/blob/main/MiniCalcOnJS.js">MiniCalcOnJS.js</a> - описание в названии, это тоже калькулятор, но уже в браузере в консоли джаваскрипт
+
 Пока что есть версии только на русском.
-MiniCalcOnJS.js - описание в названии, это тоже калькулятор, но уже в браузере в консоли джаваскрипт
 
 19.08.2026
 
