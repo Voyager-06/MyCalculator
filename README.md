@@ -9,6 +9,8 @@ My Calc Programms
 
 <a href="https://github.com/Voyager-06/MyCalculator/blob/main/Notebook_beta.py">Notebook_beta</a> - 1 версия заметок отдельно от калькулятора, на телефоне пока что работает нестабильно.
 
+<a href="https://github.com/Voyager-06/MyCalculator/blob/main/Notebook_beta-Eng.py">Notebook_beta-Eng</a> - 1 notebook`s version, at the moment on phone are working good not all formatting functions
+
 <a href="https://github.com/Voyager-06/MyCalculator/blob/main/MiniCalcOnJS.js">MiniCalcOnJS.js</a> - описание в названии, это тоже калькулятор, но уже в браузере в консоли джаваскрипт
 
 Пока что есть версии только на русском в PhoneCalc и Notebook_beta.
