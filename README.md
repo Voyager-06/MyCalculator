@@ -2,7 +2,8 @@
 My Calc Programms
 
 <a href="https://github.com/Voyager-06/MyCalculator/blob/main/Calc6v.py">Calc6v</a> - 6 версия калькулятора на Python tkinter для компьютера.
-<a href="https://github.com/Voyager-06/MyCalculator/blob/main/Calc6v-Eng.py>Calc6v-Eng</a> - 6th verse of my Python tkinter Calculator
+
+<a href="https://github.com/Voyager-06/MyCalculator/blob/main/Calc6v-Eng.py">Calc6v-Eng</a> - 6th verse of my Python tkinter Calculator
 
 <a href="https://github.com/Voyager-06/MyCalculator/blob/main/PhoneCalc.py">PhoneCalc</a> - 6 версия калькулятора для телефона.
 
